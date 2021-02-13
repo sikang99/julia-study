@@ -14,12 +14,14 @@
 - [The Julia Programming Language](https://julialang.org/)
 - [JuliaGPU](https://juliagpu.org/) : High-performance GPU programming in a high-level language.
     - NVIDIA CUDA, Intel GPUs with oneAPI, AMD GPU
+- [flux](https://fluxml.ai/) : The Elegant Machine Learning Stack
 
 
 ### Open Source
 - [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
 - [malmaud/TensorFlow.jl](https://github.com/malmaud/TensorFlow.jl) - A Julia wrapper for TensorFlow
 - [JuliaGPU](https://github.com/JuliaGPU/) - GPU Computing in Julia
-
+- [JuliaPy](https://github.com/JuliaPy) - Software that connects the Julia and Python languages.
+- [FluxML](https://github.com/FluxML) - 
 
 
