@@ -1,6 +1,9 @@
 ## julia-study
 > Julia programming language study
 
+> “scientific computing, machine learning, data mining, large-scale linear algebra, distributed and parallel computing”
+> Python isn’t fast or convenient enough. Julia aims to give scientists and data analysts not only fast and convenient development, 
+> but also blazing execution speed.
 
 
 ### Articles
