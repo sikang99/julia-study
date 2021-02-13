@@ -1,5 +1,5 @@
 ## julia-study
-> Julia language study
+> Julia programming language study
 
 
 

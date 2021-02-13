@@ -24,25 +24,6 @@ run r:
 	@echo "make (run:r) []"
 
 #----------------------------------------------------------------------------------
-venv v:
-	@echo "> make (venv) [create|activate|deactivate|require|list]"
-
-venv-create vc:
-	python3 -m venv .venv
-
-venv-activate va:
-	@echo "source .venv/bin/activate"
-
-venv-deactivate vd:
-	@echo "deactivate"
-
-venv-require vr:
-	@pip freeze > requirements.txt  
-	@cat requirements.txt
-
-venv-list vl:
-	@python3 -m pip install --upgrade pip
-	@pip list
 
 #----------------------------------------------------------------------------------
 git g:
