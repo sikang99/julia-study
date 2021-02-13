@@ -26,5 +26,6 @@
 - [JuliaGPU](https://github.com/JuliaGPU/) - GPU Computing in Julia
 - [JuliaPy](https://github.com/JuliaPy) - Software that connects the Julia and Python languages.
 - [FluxML](https://github.com/FluxML) - 
-
+- [Julia-Embedded](https://github.com/Julia-Embedded) - An organization for bringing Julia to embedded processors
+    - [Julia-Embedded/jlcross](https://github.com/Julia-Embedded/jlcross) - Dockerfiles for arm devices e.g. Raspberry Pi Series
 
