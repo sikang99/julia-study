@@ -13,4 +13,7 @@
 
 ### Open Source
 - [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
+- [malmaud/TensorFlow.jl](https://github.com/malmaud/TensorFlow.jl) - A Julia wrapper for TensorFlow
+
+
 
