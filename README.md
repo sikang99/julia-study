@@ -16,6 +16,7 @@
 
 ### Information
 - [The Julia Programming Language](https://julialang.org/)
+    - [Juliadcon 2020](https://juliacon.org/2020/)
 - [JuliaGPU](https://juliagpu.org/) : High-performance GPU programming in a high-level language.
     - NVIDIA CUDA, Intel GPUs with oneAPI, AMD GPU
 - [flux](https://fluxml.ai/) : The Elegant Machine Learning Stack
