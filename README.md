@@ -7,6 +7,7 @@
 
 
 ### Articles
+- 2021/02/13 [Go and Julia Packages and Modules Compared](https://erik-engheim.medium.com/go-and-julia-packages-and-modules-compared-999a16b06199)
 - 2020/08/23 [Is Julia Production Ready? Q&A with Bogumił Kamiński](https://www.infoq.com/news/2020/08/julia-production-ready/)
 - 2020/05/27 [Julia vs. Python: Which is best for data science?](https://www.infoworld.com/article/3241107/julia-vs-python-which-is-best-for-data-science.html)
 - 2020/04/20 [TensorFlow & Julia on a Jetson Nano](https://neuralmarkettrends.com/tensorflow-julia-jetson-nano/)
