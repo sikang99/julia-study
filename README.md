@@ -33,4 +33,11 @@
 - [FluxML](https://github.com/FluxML) - 
 - [Julia-Embedded](https://github.com/Julia-Embedded) - An organization for bringing Julia to embedded processors
     - [Julia-Embedded/jlcross](https://github.com/Julia-Embedded/jlcross) - Dockerfiles for arm devices e.g. Raspberry Pi Series
+- [JuliaSymbolics/Symbolics.jl](https://github.com/JuliaSymbolics/Symbolics.jl)
+
+
+### Videos
+- [The Julia Programming Language](https://www.youtube.com/channel/UC9IuUwwE2xdjQUT_LMLONoA)
+
+
 
