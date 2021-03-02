@@ -22,7 +22,7 @@
 - [JuliaGPU](https://juliagpu.org/) : High-performance GPU programming in a high-level language.
     - NVIDIA CUDA, Intel GPUs with oneAPI, AMD GPU
 - [flux](https://fluxml.ai/) : The Elegant Machine Learning Stack
-- [JuliaSymbolics](https://juliasymbolics.org/)
+- [JuliaSymbolics](https://juliasymbolics.org/) for Computer Algebra System (CAS)
 
 
 ### Open Source
